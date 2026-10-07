@@ -35,7 +35,6 @@ Built as a Turborepo monorepo (Next.js builder, Fumadocs site, `@clack/prompts` 
 
 - 🍲 **[Yumrite](https://www.yumrite.com)**: order Nigerian and African cuisine for delivery or pickup.
 - 🛒 **[Star Choice International](https://www.star-choice.com)**: B2B and B2C trading platform for baking ingredients and equipment, with Paystack payments and order tracking.
-- 📈 **[Tradesvax](https://tradesvax.vercel.app)**: social trading platform where users follow and copy verified traders.
 - 🌐 **[Zenova](https://github.com/CollinsEzeokeke/zenova)**: hackathon project where AI agents value companies and mint tokenised ERC-20 shares, traded on-chain with no brokers. [Live](https://zenova-rho.vercel.app)
 
 ---
