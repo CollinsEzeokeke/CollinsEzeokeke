@@ -8,15 +8,11 @@ Software engineer building web and mobile products, with a focus on **commerce i
 
 ## 🚀 What I'm building
 
-**Nexium Pilot** (NexiumLabs): ⏳ _coming soon, one to look out for._ An all-in-one commerce platform for merchants, with an AI assistant ("Pilot") at its core.
+**Nexium Pilot** (NexiumLabs): ⏳ _coming soon, and it's going to turn heads._ Commerce, rebuilt around an AI co-pilot. Details stay under wraps until launch. 👀
 
-- Storefronts with carts, multi-method checkout and owner-editable layouts
-- A template marketplace with licensing tiers, reviews and creator following
-- Wallet-first payments with split settlement at the point of payment
-- Offline-first POS and native mobile apps (Expo)
-- Shipping and payment-provider integrations
+**Nexa Ed**: a teacher hub that gives educators one place to run their work.
 
-[**Zenova**](https://github.com/CollinsEzeokeke/zenova): stock trading revolutionised by blockchain and AI.
+**Zenova**: a hackathon project that took on stock trading with blockchain and AI. [Source](https://github.com/CollinsEzeokeke/zenova)
 
 ---
 
